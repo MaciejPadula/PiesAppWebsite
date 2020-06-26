@@ -1,0 +1,15 @@
+body{
+    font-family:Tahoma;
+}
+#img{
+	
+}
+
+@media only screen and (max-width: 768px) {
+    [id*="img"] {
+    }
+}
+@media only screen and (orientation: landscape) and (max-height: 500px){
+    [id*="img"] {
+    }
+}

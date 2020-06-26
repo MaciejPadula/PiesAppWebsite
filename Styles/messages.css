@@ -1,0 +1,31 @@
+#sentMessages{
+    display:none;
+    width:75%;
+    margin-left:12.5%;
+    margin-right:12.5%;
+}
+.user{
+    font-size:140%;
+}
+.message{
+    margin-top:1%;
+    height:auto;
+    border:solid 1px;
+    overflow: hidden;
+}
+#unread{
+    font-weight: bold;
+}
+.text{
+    font-size: 80%;
+    width:100%;
+}
+#respond{
+    font-size: 80%;
+    width:25%;
+}
+#receivedMessages{
+    width:75%;
+    margin-left:12.5%;
+    margin-right:12.5%;
+}
